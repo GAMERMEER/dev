@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Spirrit.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Spirrit Idle0000" x="4" y="4" width="192" height="246" pivotX="3.8" pivotY="7.65" frameX="-2" frameY="-7" frameWidth="195" frameHeight="253"/>
+	<SubTexture name="M Spirrit Idle0001" x="4" y="4" width="192" height="246" frameX="-2" frameY="-7" frameWidth="195" frameHeight="253"/>
+	<SubTexture name="M Spirrit Idle0002" x="196" y="4" width="193" height="246" frameX="-1" frameY="-7" frameWidth="195" frameHeight="253"/>
+	<SubTexture name="M Spirrit Idle0003" x="196" y="4" width="193" height="246" frameX="-1" frameY="-7" frameWidth="195" frameHeight="253"/>
+	<SubTexture name="M Spirrit Idle0004" x="389" y="4" width="192" height="248" frameX="0" frameY="-5" frameWidth="195" frameHeight="253"/>
+</TextureAtlas>

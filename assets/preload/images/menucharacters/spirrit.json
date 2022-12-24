@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Spirrit",
+	"image": "Menu_Spirrit",
+	"position": [
+		20,
+		-40
+	],
+	"flipX": false,
+	"scale": 1.4,
+	"confirm_anim": "M Dad Idle"
+}

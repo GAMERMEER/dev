@@ -1,0 +1,50 @@
+{
+	"storyName": "spirrit but harder :)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"song",
+			"spirit-pixel",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"robot",
+			"benson",
+			[
+				200,
+				160,
+				0
+			]
+		],
+		[
+			"phonophobia",
+			"darkness",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"Spirrit",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekie hard ;P"
+}
